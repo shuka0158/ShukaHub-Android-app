@@ -1,4 +1,4 @@
-# ShukaHub-Android-app
+# ShukaHub Android App
 Free chatting app created by me. (My ID on ShukaHub: 77777777 (@shuka0158)) Feel free to messege.
 SLIDE FROM LEFT TO RIGHT TO OPEN CHATS LIST
 
