@@ -17,7 +17,7 @@ A private real-time chat application built with vanilla JavaScript, Firebase, an
 
 ### Authentication
 - Register with a unique numeric ID and password (SHA-256 hashed, stored client-side)
-- Login by ID or display name
+- Login by ID or USERNAME
 - Animated login screen with interactive character
 - Change password and display name from settings
 - Delete account
